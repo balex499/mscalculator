@@ -1,0 +1,18 @@
+{
+    "name": "MSCalculator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:209267cb552fb96458c590e86f1756ab",
+        "GUID:79127b2f7a5868447befeb44eece052d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
