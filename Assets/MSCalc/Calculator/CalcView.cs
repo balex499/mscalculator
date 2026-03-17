@@ -53,7 +53,7 @@ namespace MSCalc.Calculator
             }
             if (_scrollView != null)
             {
-                float height = _history.preferredHeight;//_history.fontSize * recordsCount;
+                float height = _history.preferredHeight;
                 _scrollView.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, Mathf.Clamp(height, 0f, _maxHistoryHeight));
                 _content.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, height);
             }
